@@ -1,21 +1,15 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfiz720&label=Profile%20views&color=0e75b6&style=flat" alt="mahfiz720" /> </p>
 
-Skills:  HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfiz720" alt="mahfiz720" /></a> </p>
 
-- 🔭 I’m currently working on this page. 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfiz720&show_icons=true&locale=en&layout=compact" alt="mahfiz720" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahfiz720)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfiz720&show_icons=true&locale=en" alt="mahfiz720" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfiz720)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahfiz720&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mahfiz720/contributions?format=svg&private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mahfiz720)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfiz720&" alt="mahfiz720" /></p>
