@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm মো মাহফিজ কাইফ (Hemel)</h1>
+<h1 align="center">Hi 👋, I'm MD Mahfiz Kaif </h1>
 <h3 align="center">A passionate Front-End Developer & Programmer</h3>
 
 <p align="center">
@@ -68,12 +68,6 @@
   <img src="https://komarev.com/ghpvc/?username=Mahfiz720&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Mahfiz720?style=social" alt="Followers"/>
 </p>
-
----
-
-### 🖥️ Adaptive for Light/Dark Mode
-
-> All widgets and cards above support **light and dark mode** automatically based on your system settings.
 
 ---
 
