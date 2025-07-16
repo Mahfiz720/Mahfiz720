@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://github.com/Mahfiz720">
-  <img height="160" src="https://streak-stats.demolab.com/?user=Mahfiz720&theme=default&hide_border=false&background=FFFFFF00" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Mahfiz720&theme=default&hide_border=false&bg_color=00000000" />
 </a>
 
 </div>
