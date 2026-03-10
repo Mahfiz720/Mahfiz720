@@ -47,30 +47,11 @@
 
 ---
 
-### 💻 Featured Projects
+### 🧮 GitHub Metrics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Mahfiz720/Project-1">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+1+Preview" width="400px;" alt="Project 1"/>
-      </a>
-      <br />
-      <b>Project 1 Title</b>
-      <br />
-      <i>Short description of Project 1 goes here.</i>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Mahfiz720/Project-2">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+2+Preview" width="400px;" alt="Project 2"/>
-      </a>
-      <br />
-      <b>Project 2 Title</b>
-      <br />
-      <i>Short description of Project 2 goes here.</i>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfiz720&theme=github_dark" />
+</p>
 
 ---
 
