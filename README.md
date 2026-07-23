@@ -49,8 +49,8 @@ I'm a Front-End Developer actively looking for new opportunities, focused on wri
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **Project Name** | One-line summary of what it does and the problem it solves | HTML, CSS, JS | [Repo](#) |
-| **Project Name** | One-line summary of what it does and the problem it solves | HTML, CSS, JS | [Repo](#) |
+| **Flower Shop** | Responsive flower shop landing page with Flexbox/Grid layout, product & deals sections, and a mobile-friendly design via media queries | HTML5, CSS3 | [Repo](https://github.com/Mahfiz720/Assignment-2) · [Live Demo](https://mahfiz720.github.io/Assignment-2/) |
+| **Portfolio Website** | Personal portfolio landing page template with hero banner, About Me, and sections for showcasing work and contact info | HTML5, CSS3 | [Repo](https://github.com/Mahfiz720/Portfolio-website) |
 | **Project Name** | One-line summary of what it does and the problem it solves | C++ | [Repo](#) |
 
 ---
@@ -67,16 +67,6 @@ I'm a Front-End Developer actively looking for new opportunities, focused on wri
 </div>
 
 <!-- streak-stats.demolab.com is also a shared public instance, same reliability trade-off as github-readme-stats was. If this one breaks too, it can be self-hosted the same way — fork DenverCoder1/github-readme-streak-stats and deploy on your Vercel account. -->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahfiz720&theme=flat&no-frame=true&margin-w=10&row=1" />
-</div>
-
-<!-- Also a shared public instance — same self-hosting fix applies if it ever breaks: fork ryo-ma/github-profile-trophy and deploy on Vercel. -->
 
 ---
 
