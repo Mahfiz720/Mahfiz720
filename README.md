@@ -58,8 +58,8 @@ I'm a Front-End Developer actively looking for new opportunities, focused on wri
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahfiz720&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfiz720&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-lyart-theta-89.vercel.app/api?username=Mahfiz720&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-lyart-theta-89.vercel.app/api/top-langs/?username=Mahfiz720&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
 </div>
 
 <div align="center">
