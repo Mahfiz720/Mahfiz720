@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmahfizkaif33@gmail.com)
 
 </div>
 
@@ -70,12 +70,20 @@ I'm a Front-End Developer actively looking for new opportunities, focused on wri
 
 ---
 
+## 🧮 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfiz720&theme=github_dark" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 I'm open to Front-End Developer opportunities and collaborations — feel free to reach out.
 
 - 💼 LinkedIn: *add your LinkedIn URL*
-- ✉️ Email: *add your email*
+- ✉️ Email: [mdmahfizkaif33@gmail.com](mailto:mdmahfizkaif33@gmail.com)
 - 🌐 Portfolio: *add your portfolio URL if you have one*
 - 🐙 GitHub: [@Mahfiz720](https://github.com/Mahfiz720)
 
