@@ -66,6 +66,18 @@ I'm a Front-End Developer actively looking for new opportunities, focused on wri
   <img height="165" src="https://streak-stats.demolab.com/?user=Mahfiz720&theme=default&hide_border=true&bg_color=00000000" />
 </div>
 
+<!-- streak-stats.demolab.com is also a shared public instance, same reliability trade-off as github-readme-stats was. If this one breaks too, it can be self-hosted the same way — fork DenverCoder1/github-readme-streak-stats and deploy on your Vercel account. -->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahfiz720&theme=flat&no-frame=true&margin-w=10&row=1" />
+</div>
+
+<!-- Also a shared public instance — same self-hosting fix applies if it ever breaks: fork ryo-ma/github-profile-trophy and deploy on Vercel. -->
+
 ---
 
 ## 📫 Let's Connect
